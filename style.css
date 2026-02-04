@@ -1,0 +1,21 @@
+
+  h1 {
+    color: green;
+  }
+  #a1, #a4 {
+    color: white;
+    background: chocolate
+    font-size: 21px;
+  }
+  
+  #a2, #a5 {
+    color: white;
+    background: maroon;
+    font-size: 20px;
+  }
+  #a3, #a6 {
+    color: white;
+    background: fuchsia;
+    font-size: 21px;
+  }
+
